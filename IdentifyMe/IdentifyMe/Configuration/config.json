@@ -1,0 +1,5 @@
+{
+  "Environment": "Release",
+  "AgentFrameworkEndpoint": "https://mediator.191lab.tech/",
+  "PoolConfigurationName": "sovrin-builder"
+} 
